@@ -16,7 +16,7 @@ How to use it?
         <source src="video.mp4" type="video/mp4">
 </video>
 
-<script src='coveret.min.js' type='text/javascript'></script>
+<script src='coveret.min.js'></script>
 <script>$('video').coverET(1920, 1080);</script>
  ```
  
